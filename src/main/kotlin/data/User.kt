@@ -1,4 +1,4 @@
 package data
 
-class propertiesConstructor {
+class User (var username: String, var password: String) {
 }
